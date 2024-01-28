@@ -1,1 +1,1 @@
-# javascrip
+# javascript essentials coursera
